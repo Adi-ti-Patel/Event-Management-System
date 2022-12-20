@@ -1,0 +1,42 @@
+.heading {
+  padding-top: 20px;
+  margin-left: 50px;
+  font-size: 40px;
+}
+
+
+.speakerImage {
+  height: 150px;
+  width: 150px;
+  border-radius: 150px;
+}
+
+.container {
+  padding-top: 50px;
+}
+
+.speakerName {
+  margin-left: 120px;
+  font-size: 40px;
+  margin-top: 20px;
+  color: white;
+}
+.desc {
+  color: white;
+}
+.speakerEmail {
+  margin-left: 120px;
+  font-size: 20px;
+  color: gray;
+}
+
+.speakerCard {
+  /*padding-top: 20px;*/
+  background-color: #A5C9CA;
+  color: black;
+}
+
+body {
+  background-color: #2C3333;
+  height: 100vh;
+}

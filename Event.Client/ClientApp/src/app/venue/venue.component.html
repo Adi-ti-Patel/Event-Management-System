@@ -1,0 +1,19 @@
+<body>
+  <div class="container">
+
+    <div class="heading p-3">
+      <b>Venue Of the Event</b>
+    </div>
+
+  </div>
+  <div class=" row">
+    <div class="card speakerCard col-6" style="width: 24rem;" *ngFor="let item of data">
+      <img src="../../assets/{{picture}}" class="card-img-top" alt="...">
+      <ul class="list-group list-group-flush">
+        <li class="list-group p-2"> Venue Name : <b>{{item.name}}</b></li>
+        <li class="list-group p-2"><a href="#">{{item.website}}</a></li>
+        <li class="list-group p-2"><b>{{item.contact}}</b> </li>
+      </ul>
+    </div>
+</div>
+</body>

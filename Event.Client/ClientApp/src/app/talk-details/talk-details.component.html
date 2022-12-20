@@ -1,0 +1,40 @@
+
+<body>
+  <div class="container">
+    <div class="row">
+
+      <img src="../../assets/{{speaker.photo}}" class="p-3 col-2 float-left speakerImage" alt="...">
+
+      <div class="col-8">
+        <div class="speakerName"><b>{{speaker.name}}</b></div>
+        <div class="speakerEmail">{{speaker.email}}</div>
+      </div>
+    </div>
+
+    <div class="p-3 desc">
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum dignissimos aperiam eum est quo, ex accusamus,
+        facilis aliquid magni ratione distinctio tempore doloremque nemo in repudiandae eius suscipit dolore enim. Aperiam,
+        soluta.
+      </p>
+    </div>
+
+    
+    <div class="container">
+      <div><h1 style="color:white">Talks And Workshops</h1></div>
+      <div class=" row">
+        <div class="col-4 " *ngFor="let item of data">
+          <div class="">
+            <div class="card speakerCard m-5">
+              <div class="card-body">
+                <h5 class="card-title">{{item.title}}</h5>
+                <p class="card-text">{{item.description}}</p>
+                <p class="card-text">{{time}}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>

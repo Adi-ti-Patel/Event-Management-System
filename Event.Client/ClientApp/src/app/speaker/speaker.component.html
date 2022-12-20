@@ -1,0 +1,20 @@
+<body>
+  <div class="container">
+
+    <div class="heading">
+      <b>Speakers</b>
+    </div>
+
+    <br />
+
+  <div class="row">
+    <div class="card speakerCard col-4" style="width: 20rem;" *ngFor="let item of data">
+      <img src="../../assets/{{item.photo}}" [routerLink]="['../talkdetails']" height="300px" width="auto" [state]="item" />
+      <div class="container">
+        <h4><b>{{item.name}}</b></h4>
+      </div>
+    </div>
+  </div>
+  </div>
+
+</body>

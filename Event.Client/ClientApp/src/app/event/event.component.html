@@ -1,0 +1,21 @@
+<body>
+  <div class="container">
+
+    <div class="heading">
+      <b>Upcoming Events for Software Developers</b>
+    </div>
+
+    <div class="row">
+      <div class="col-4" *ngFor="let item of eventList">
+        <div class="card eventCard m-5" style="width: 18rem;">
+          <img src="../../assets/{{item.pic}}" class="card-img-top" width="400px" height="300px" alt="images here"  [routerLink]="['../details']" [state]="item">
+          <div class="card-body">
+            <div class="fst-italic fw-bold fs-4">{{item.name}}</div>
+            <div class="fw-lighter">{{getFormattedEventDate(item)}}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</body>

@@ -1,0 +1,15 @@
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\bin\Debug\net6.0\Event.Data.deps.json
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\bin\Debug\net6.0\Event.Data.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\bin\Debug\net6.0\Event.Data.pdb
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\bin\Debug\net6.0\Event.Business.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\bin\Debug\net6.0\Event.Business.pdb
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\obj\Debug\net6.0\Event.Data.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\obj\Debug\net6.0\Event.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\obj\Debug\net6.0\Event.Data.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\obj\Debug\net6.0\Event.Data.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\obj\Debug\net6.0\Event.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\obj\Debug\net6.0\Event.Data.csproj.CopyComplete
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\obj\Debug\net6.0\Event.Data.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\obj\Debug\net6.0\refint\Event.Data.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\obj\Debug\net6.0\Event.Data.pdb
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Event_Management_System\Event.Data\obj\Debug\net6.0\ref\Event.Data.dll

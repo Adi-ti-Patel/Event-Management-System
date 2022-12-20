@@ -1,0 +1,43 @@
+.heading {
+  padding-top: 20px;
+  margin-left: 50px;
+  font-size: 40px;
+}
+
+.container {
+  color: white;
+  padding-top: 100px;
+}
+
+button {
+  float: right;
+  margin-right: 20px;
+  width: 200px;
+  background-color: #E7F6F2;
+}
+
+  button:hover {
+    background-color: #A5C9CA;
+  }
+
+div {
+  padding-top: 20px;
+}
+
+body {
+  background-color: #2C3333;
+  height: 100vh;
+}
+
+.card-title {
+  color: black;
+  font-size: 40px;
+}
+
+.detailCard {
+  background-color: #A5C9CA;
+}
+
+.list-group {
+  color: black;
+}

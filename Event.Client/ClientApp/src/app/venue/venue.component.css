@@ -1,0 +1,30 @@
+.heading {
+  padding-top: 20px;
+  margin-left: 50px;
+  font-size: 40px;
+  /*padding-left: 200px;*/
+  color:white;
+}
+
+/*img {
+    width: 400px;
+    height: 400px;
+    float: right;
+    padding-top: 30px;
+    padding-right: 50px;
+}
+*/
+body {
+  background-color: #2C3333;
+  /*height:609px;*/
+  height: 100vh;
+}
+
+.container {
+  color:white;
+}
+
+.speakerCard {
+  margin-left: 130px;
+  background-color: #A5C9CA;
+}

@@ -1,0 +1,25 @@
+<body>
+  <div>
+
+    <div>
+      <button type="button" class=" btn-lg" (click)="navigateToSpeaker()">Speaker</button>
+      <button type="button" class=" btn-lg" (click)="navigateToVenue()">Venue</button>
+    </div>
+
+    <div class="container" >
+      <div class="card detailCard" style="width: 24rem;">
+        <div class="p-3 detailTitle">
+          <h5 class="card-title ">{{event.name}}</h5>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group p-2">{{event.startDate | date : 'longDate' }} - {{event.endDate | date : 'longDate'}}</li>
+          <li class="list-group p-2">Total Days : {{totalNumberOfdays(event) | number : '2.0-0'}}</li>
+          <li class="list-group p-2">Completed : {{event.isCompleted}}</li>
+        </ul>
+
+      </div>
+    </div>
+
+  </div>
+
+</body>
