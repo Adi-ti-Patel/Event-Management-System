@@ -7,7 +7,9 @@ But in TEMS project I have done three layer and the front-enf project is done in
 
 Project Type :
 
+# Visual Studio
 Event.Client   : ASP .Net Core with Angular 
 Event.Data     : Class Library
 Event.Business : Class Library
+
 Database       : SQL Server
